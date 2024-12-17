@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>build/show.ico</file>
+        <file>build/7eafb5388ade459fa917837104c7df77.ico</file>
+        <file>build/fae83a72b23126f518cf490e694939a3_2707708429422689027.ico</file>
+        <file>build/image (1).ico</file>
+        <file>build/image.ico</file>
+        <file>build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/6037446605.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>build/Gaga.mp3</file>
+        <file>build/ont-prognoz-pogody.mp3</file>
+    </qresource>
+</RCC>

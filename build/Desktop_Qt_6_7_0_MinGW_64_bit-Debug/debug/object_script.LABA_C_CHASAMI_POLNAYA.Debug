@@ -1,0 +1,10 @@
+debug/clocky.o
+debug/formatchislovoy.o
+debug/formatslovestny.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_Media.o
+debug/moc_clocky.o
+debug/moc_formatchislovoy.o
+debug/moc_formatslovestny.o
+debug/moc_mainwindow.o
